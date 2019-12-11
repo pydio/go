@@ -1,2 +1,3 @@
 # go
-Generic tools for Pydio Golang application
+
+Generic tools for Pydio Golang applications.
